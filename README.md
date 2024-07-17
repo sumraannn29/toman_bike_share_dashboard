@@ -30,19 +30,19 @@ This report details the development and insights derived from the Toman Bike Sha
 - **Dashboard Section**: The line and bar chart showing riders, profit, and revenue by year and month.
 - **Insights**: There is a consistent upward trend in both profit and revenue, with noticeable peaks during the summer months (June to August). This indicates strong seasonal performance and the potential for targeted promotional activities during these periods.
 
-![riders_profit_revenue_by_month_year](.\assets\riders_profit_revenue_by_month_year.png)
+![riders_profit_revenue_by_month_year](./assets/riders_profit_revenue_by_month_year.png)
 
 ### Seasonal Revenue
 - **Dashboard Section**: The bar chart displaying revenue by season.
 - **Insights**: Summer (Season 3) generates the highest revenue at $4.9 million, followed by Fall (Season 4) with $3.9 million. Winter (Season 1) shows the least revenue at $2.2 million. This seasonal variability should inform strategic planning and resource allocation.
 
-![revenue_by_season](.\assets\revenue_by_season.png)
+![revenue_by_season](./assets/revenue_by_season.png)
 
 ### Rider Demographics
 - **Dashboard Section**: The pie chart showing rider demographics by rider type.
 - **Insights**: The majority of riders are registered users (81.17%), with casual riders comprising 18.83%. This demographic split underscores the importance of retaining registered users through loyalty programs and incentives.
 
-![rider_demographic](.\assets\rider_demographic.png)
+![rider_demographic](./assets/rider_demographic.png)
 ## Design and Aesthetics
 The dashboard has been designed using Toman Bike Share's company colors and an intuitive layout to ensure ease of navigation. Each section has been organized to provide clear and actionable insights.
 
