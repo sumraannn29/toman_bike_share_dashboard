@@ -98,7 +98,7 @@ ON cte.yr = cost_table.yr
 Download and install Power BI Desktop from the [Microsoft Power BI website](https://powerbi.microsoft.com/).
 
 ## Open the Dashboard
-Open the `Toman_Bike_Share_Dashboard.pbix` [file](C:/Projects/sql%20project%20bike%20data/Toman%20Bike%20Share%20Dashboard.pbix) using Power BI Desktop. You can also view a PDF of the dashboard [here](C:/Projects/sql%20project%20bike%20data/Toman%20Bike%20Share%20Dashboard.pdf).
+Open the `Toman_Bike_Share_Dashboard.pbix` [file](C:/Projects/sql%20project%20bike%20data/Toman%20Bike%20Share%20Dashboard.pbix) using Power BI Desktop. You can also view a PDF of the dashboard [here](./Toman%20Bike%20Share%20Dashboard.pdf).
 
 # Setting Up the Database
 
@@ -106,7 +106,7 @@ Open the `Toman_Bike_Share_Dashboard.pbix` [file](C:/Projects/sql%20project%20bi
 Ensure PostgreSQL is installed on your system.
 
 ## Create Tables and Import Data
-Use the SQL script in the scripts folder to create tables and import data.
+You can view the SQL script [here](./scripts/sql_script.sql).
 
 ## Run the Query
 Use the SQL query provided above to combine and analyze the data.
