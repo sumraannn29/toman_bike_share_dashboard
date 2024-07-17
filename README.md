@@ -106,7 +106,7 @@ Open the `Toman_Bike_Share_Dashboard.pbix` [file](C:/Projects/sql%20project%20bi
 Ensure PostgreSQL is installed on your system.
 
 ## Create Tables and Import Data
-You can view the SQL script [here](./scripts/sql_script.sql).
+You can view the SQL script [here](./scripts/create_table_insert_data.sql).
 
 ## Run the Query
 Use the SQL query provided above to combine and analyze the data.
